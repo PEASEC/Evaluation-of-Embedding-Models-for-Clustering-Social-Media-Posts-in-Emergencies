@@ -2,6 +2,13 @@
 
 This repository contains the experimental code of the clustering evaluation described in the paper **"Information Overload in Crisis Management: Bilingual Evaluation of Embedding Models for Clustering Social Media Posts in Emergencies"** by Markus Bayer, Marc André Kaufhold, and Christian Reuter.
 
+## Status: Stalled
+
+**Important Notice:** This project is currently stalled due to the discontinuation of many models it relies on. As a result, the existing code may not work as intended without modifications. If you wish to use this project, you will need to adjust the code to integrate alternative models or updated versions of the discontinued ones.
+
+
+
+
 ## Overview
 
 The script `main.py` is the primary script used to create embeddings, perform clustering, and evaluate the results based on different embedding models. The goal is to evaluate the effectiveness of various embedding models for clustering social media posts during emergencies, considering both English and German posts.
