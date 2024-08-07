@@ -1,6 +1,6 @@
 # Clustering Evaluation for Crisis Management
 
-This repository contains the implementation of the clustering evaluation described in the paper **"Information Overload in Crisis Management: Bilingual Evaluation of Embedding Models for Clustering Social Media Posts in Emergencies"** by Markus Bayer, Marc André Kaufhold, and Christian Reuter.
+This repository contains the experimental code of the clustering evaluation described in the paper **"Information Overload in Crisis Management: Bilingual Evaluation of Embedding Models for Clustering Social Media Posts in Emergencies"** by Markus Bayer, Marc André Kaufhold, and Christian Reuter.
 
 ## Overview
 
