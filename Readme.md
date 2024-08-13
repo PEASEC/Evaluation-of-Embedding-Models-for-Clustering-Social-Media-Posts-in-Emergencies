@@ -6,8 +6,9 @@ This repository contains the experimental code of the clustering evaluation desc
 
 **Important Notice:** This project is stalled due to the discontinuation of many models it relies on. As a result, the existing code may not work as intended without modifications. If you wish to use this project, you will need to adjust the code to integrate alternative models or updated versions of the discontinued ones.
 
+## Contact and Support
 
-
+If you have any questions, need access to datasets or the complete research data, or if you encounter any bugs, please feel free to contact me!
 
 ## Overview
 
